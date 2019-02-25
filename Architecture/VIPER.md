@@ -35,8 +35,10 @@ VIPER 分别代表了：
 - 提供View之间的跳转功能，减少了模块间的耦合
 - 初始化VIPER的各个模块
 
-VIPER 架构图  
+### VIPER 架构图  
 ![VIPER 架构](/Architecture/viperArc1.png)  
+其中 wireframe 就是 router的原型，更详细的结构图如下：
+
 ![VIPER 架构](/Architecture/viperArc2.png)
 
 
