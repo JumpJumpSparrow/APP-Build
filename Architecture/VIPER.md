@@ -36,7 +36,8 @@ VIPER 分别代表了：
 - 初始化VIPER的各个模块
 
 VIPER 架构图
-![VIPER 架构](/Architecture/viperArc1.png)
+- ![VIPER 架构](/Architecture/viperArc1.png)
+- ![VIPER 架构](/Architecture/viperArc2.png)
 
 
 ### VIPER的特色就是职责明确，粒度细，隔离关系明确，这样能带来很多优点：
