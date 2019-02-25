@@ -3,14 +3,14 @@
 ## 这个仓库主要介绍 在搭建一款 iOS 平台的 APP 时，涉及到的知识点
 
 ### 主架构
-[MVC](www.baidu.com)
-[MVVM]()
+[MVC](www.baidu.com)\n
+[MVVM]()\n
 [VIPER]()
 
 ### UI
-[UI框架](www.baidu.com)
-[控件]()
-[动画]()
+[UI框架](www.baidu.com) \n
+[控件]()\n
+[动画]()\n
 [hybrid]()
 
 ### 网络
