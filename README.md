@@ -4,9 +4,9 @@
 [![license](https://img.shields.io/badge/license-Attribution--NonCommercial%204.0%20-brightgreen.svg)](https://github.com/doocs/advanced-java/blob/master/LICENSE)
 
 
-### 这个仓库主要介绍 在搭建一款 iOS 平台的 APP 时，涉及到的知识点
+### 这个仓库主要介绍 在搭建一款 iOS APP 时，涉及到的知识点
 
-本系列知识主要来此自己从事 iOS 开发 四年的经验，部分补充来自网络
+本系列知识主要来自本人从事iOS 开发多年(15年至今)的经验，部分补充来自网络
 
 ### 主架构
  - [MVC](www.baidu.com)
