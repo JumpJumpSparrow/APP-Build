@@ -8,7 +8,7 @@
 
 本系列知识主要来自本人从事iOS 开发多年(15年至今)的经验，部分补充来自网络
 
-### 主架构
+### 代码架构
  - [MVC](www.baidu.com)
  - [MVVM]()
  - [VIPER](/Architecture/VIPER.md)
