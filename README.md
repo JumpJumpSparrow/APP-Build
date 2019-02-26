@@ -10,7 +10,7 @@
 
 ### 代码架构
  - [MVC](/Architecture/MVC.md)
- - [MVVM]()
+ - [MVVM](/Architecture/MVVM.md)
  - [VIPER](/Architecture/VIPER.md)
 
 ### UI
