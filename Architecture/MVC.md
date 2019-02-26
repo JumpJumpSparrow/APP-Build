@@ -6,7 +6,7 @@
 
 设计 MVC 的重要目的就是`在人的心智模型与计算机的模型`之间建立一个桥梁，而 MVC 能够解决这一问题并为用户提供`直接看到信息`和`操作信息`的功能。
 
-![MVC](/Arichitecture/1024px-MVC-Process.png)  
+![MVC](/Architecture/1024px-MVC-Process.png)  
 
 MVC 将整个应用分成 Model、View 和 Controller 三个部分：
 - 视图：管理作为位图展示到屏幕上的图形和文字输出；
