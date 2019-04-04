@@ -1,4 +1,4 @@
- VIPER架构，最初是2013年在MutualMobile的技术博客上，由Jeff Gilbert 和 Conrad Stoll 提出的。
+ VIPER架构，最初是2013年在`MutualMobile`的技术博客上，由`Jeff Gilbert` 和 `Conrad Stoll` 提出的。
  VIPER 是一个创建 iOS 应用简明构架， 简明架构将一个应用程序的逻辑结构划分为不同的责任层。这使得它更容易隔离依赖项 (如数据库)，也更容易测试各层间的边界处的交互。
 VIPER 分别代表了：
  - 视图 (View)
