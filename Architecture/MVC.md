@@ -1,4 +1,6 @@
-![MVC](/Architecture/1024px-MVC-Process.png)  
+<p align="center" >
+<img width="512" height="550"  src="https://github.com/JumpJumpSparrow/APP-Build/blob/master/Architecture/1024px-MVC-Process.png">
+<p>
 ## MVC 的概念
 
 1979年，Trygve Reenskaug 在 Smalltalk-76 系统上首次引入了 [MVC](https://en.wikipedia.org/wiki/Model–view–controller) 的概念，最初的时候叫做Model-View-Controller-Editor。 作为最出名并且应用最广泛的架构模式，MVC 并没有一个明确的定义，网上流传的 MVC 架构图也是形态各异，查阅了很多资料也没有办法确定到底什么样的架构图才是标准的 MVC 实现。  
