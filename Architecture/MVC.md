@@ -1,5 +1,5 @@
 <p align="center" >
-<img width="512" height="550"  src="https://github.com/JumpJumpSparrow/APP-Build/blob/master/Architecture/1024px-MVC-Process.png">
+<img width="256" height="275"  src="https://github.com/JumpJumpSparrow/APP-Build/blob/master/Architecture/1024px-MVC-Process.png">
 <p>    
 
 ## MVC 的概念
