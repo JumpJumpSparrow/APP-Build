@@ -6,12 +6,25 @@
 
 ### 这个仓库主要介绍 在搭建一款 iOS APP 时，涉及到的知识点
 
-本系列知识主要来自本人从事iOS 开发多年(15年至今)的经验，部分补充来自网络
+这个 repo 主要用来介绍搭建一款 iOS APP 都需要哪些知识
 
 ### 代码架构
  - [MVC](/Architecture/MVC.md)
  - [MVVM](/Architecture/MVVM.md)
- - [VIPER](/Architecture/VIPER.md)
+ - [VIPER](/Architecture/VIPER.md)  
+ 
+### Objective-C
+- 多线程
+- GCD
+- KVO、KVC
+- Notification
+- NSTimer
+- [protocol、category 中声明属性](/Objective-C/protocol&category.md)
+- OC block 深入了解
+- property 你要知道的
+- [runloop](/Objective-C/runloop.md)   
+- runtime
+
 ### UI
  - [UI框架](www.baidu.com) 
  - [控件]()
