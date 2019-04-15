@@ -376,5 +376,5 @@ NSURLSession    ->AFNetworking2,  Alamofire
 
 NSURLConnectionLoader 中的 RunLoop 通过一些基于 mach port 的 Source 接收来自底层 CFSocket 的通知。当收到通知后，其会在合适的时机向 CFMultiplexerSource 等 Source0 发送通知，同时唤醒 Delegate 线程的 RunLoop 来让其处理这些通知。CFMultiplexerSource 会在 Delegate 线程的 RunLoop 对 Delegate 执行实际的回调。
 
-[资料](https://blog.ibireme.com/2015/05/18/runloop/)
+[资料](https://blog.ibireme.com/2015/05/18/runloop/)  
 [NSRunLoop 苹果官方文档](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW23)

@@ -16,7 +16,7 @@
 ### Objective-C
 - 多线程
 - GCD
-- KVO、KVC
+- [KVO、KVC](/Objective-C/KVC&KVO.md)
 - Notification
 - NSTimer
 - [protocol、category 中声明属性](/Objective-C/protocol&category.md)
