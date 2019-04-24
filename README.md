@@ -20,8 +20,8 @@
 - Notification
 - NSTimer
 - [protocol、category 中声明属性](/Objective-C/protocol&category.md)
-- OC block 深入了解
-- property 你要知道的
+- [OC block 原理](/Objective-C/OC_block.md)
+- property 关键字
 - [runloop](/Objective-C/runloop.md)   
 - runtime
 - 数据集合 NSArray, NSDictionary, NSSet, NSHashTable 
