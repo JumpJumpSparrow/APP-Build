@@ -8,10 +8,13 @@
 
 这个 repo 主要用来介绍搭建一款 iOS APP 都需要哪些知识
 
+[Apple 开发者文档](https://developer.apple.com/documentation)
+
 ### 代码架构
  - [MVC](/Architecture/MVC.md)
  - [MVVM](/Architecture/MVVM.md)
  - [VIPER](/Architecture/VIPER.md)  
+ - RAC 响应式编程
  
 ### Objective-C
 - 多线程
