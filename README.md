@@ -20,7 +20,7 @@
 - Notification
 - NSTimer
 - [protocol、category 中声明属性](/Objective-C/protocol&category.md)
-- [OC block 内存管理分析](/Objective-C/OC_block.md)
+- [深入理解 block 的内存管理](/Objective-C/OC_block.md)
 - property 关键字
 - [runloop](/Objective-C/runloop.md)   
 - runtime

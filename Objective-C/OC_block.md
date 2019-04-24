@@ -7,6 +7,8 @@
 3. block的属性修饰词为什么是 copy ？使用 block 有哪些使用注意？
 4. block在修改 NSMutableArray，需不需要添加 `__block`？
 
+一句话概括就是：**了解的 block 的内存管理方式，就了解了 block 的关键**
+
 ## 1.block的原理是怎样的？本质是什么？
 
 **block本质上也是一个oc对象，内部也有一个 isa 指针。block 是封装了函数调用以及函数调用环境的OC对象。**
