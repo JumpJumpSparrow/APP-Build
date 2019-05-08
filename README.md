@@ -20,7 +20,7 @@
 - 多线程
 - GCD
 - [KVO、KVC](/Objective-C/KVC&KVO.md)
-- Notification
+- [Notification](/Objective-C/Notification.md)
 - NSTimer
 - [protocol、category 中声明属性](/Objective-C/protocol&category.md)
 - [深入理解 block 的内存管理](/Objective-C/OC_block.md)
