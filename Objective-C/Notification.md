@@ -1,3 +1,5 @@
 结论：通知发送线程和通知接收线程是一致的。 由此看来，如果当我们不是百分之百确认通知的发送队列是在主队列中时，我们最好加上如下代码从而对我们的UI进行处理。
 
 NSNotificationQueue NSPostASAP 完成了异步通知
+
+NSNotificationCoalescingOnName 通知合并
