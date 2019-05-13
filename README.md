@@ -28,6 +28,7 @@
 - [runloop](/Objective-C/runloop.md)   
 - runtime
 - 数据集合 NSArray, NSDictionary, NSSet, NSHashTable 
+- [LLDB 调试器](Objective-C/debug.md)
 
 ### UI
  - [UI框架](www.baidu.com) 
