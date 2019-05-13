@@ -54,21 +54,17 @@
 渲染服务实际上是一个另外的进程 (被称作 `backboardd`)。这就是说即使我们正在调试的内容所在的进程被打断了，`backboardd` 也还是继续运行着的。
 
 这意味着你可以运行下面的命令，而不用继续运行程序：
-
 ```
 (lldb) e (void)[CATransaction flush]
 ```
-
 即使你仍然在调试器中，UI 也会在模拟器或者真机上实时更新。[Chisel](https://github.com/facebook/chisel) 为此提供了一个别名叫做 `caflush`，这个命令被用来实现其他的快捷命令，例如 `hide <view>`，`show <view>` 以及其他很多命令。所有 [Chisel](https://github.com/facebook/chisel)的命令都有文档，所以安装后随意运行 `help show` 来看更多信息。
 
 ### Push 一个 View Controller
 
 想象一个以 `UINavigationController` 为 root ViewController 的应用。你可以通过下面的命令，轻松地获取它：
-
 ```
 (lldb) e id $nvc = [[[UIApplication sharedApplication] keyWindow] rootViewController]
 ```
-
 然后 push 一个 child view controller:
 
 ```
@@ -83,10 +79,10 @@
 ```
 navigation Controller 就会立刻就被 push 到你眼前。
 
-参考资料：
-[objccn](https://objccn.io/issue-19-2/)  
-[LLDB](https://lldb.llvm.org/use/map.html)  
-
+参考资料：  
+[objccn](https://objccn.io/issue-19-2/)    
+[LLDB](https://lldb.llvm.org/use/map.html)    
+[](http://www.arigrant.com/blog/2014/1/19/adventures-in-the-land-of-nsarray)  
 
 
 
