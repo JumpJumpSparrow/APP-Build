@@ -15,6 +15,7 @@
  - [MVVM](/Architecture/MVVM.md)
  - [VIPER](/Architecture/VIPER.md)  
  - RAC 响应式编程
+ - 设计模式
  
 ### Objective-C
 - 多线程
@@ -72,6 +73,9 @@
  - [视频]()
  - [音频]()
  - [图像]()
+
+### 优化
+- [一些优化的策略](/optimize.md)
 
  ### APP 状态监控
 
