@@ -15,7 +15,7 @@
  - [MVVM](/Architecture/MVVM.md)
  - [VIPER](/Architecture/VIPER.md)  
  - RAC 响应式编程
- - 设计模式
+ - [设计模式](/DesignPattern/DesignPattern.md)
  
 ### Objective-C
 - 多线程
